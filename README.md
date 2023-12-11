@@ -19,3 +19,5 @@ pip install python-telegram-bot==13.0
 
 then run the envbot.py
 
+ON V2 : 
+This script now includes the commands /adduser, /deleteuser, and /editbudget, along with the original /showusers command. Each command has basic error handling and usage instructions
