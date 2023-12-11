@@ -10,6 +10,11 @@ so you will add user with id /adduser 123456789 and his balance is 50$ and so on
 
 after add user you need to restart the main.py bot 
 
+Install Necessary Packages:
+
+pip install python-telegram-bot python-dotenv
+
+
 this env bot need to install python 13 , i use virtual enviroment to do that in windows 11 like this : 
 
 go to same env directory and open terminal and do this :
