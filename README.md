@@ -1,3 +1,10 @@
+
+
+![Screenshot_20231212_001558_TurboTel~2](https://github.com/khanfar/controlenvbot/assets/16803586/de08b7de-1360-4bff-8940-b8bc74a1dd26)
+
+
+
+
 you need to put the python file in same env file location .
 you need to add this line up in env file :
 
