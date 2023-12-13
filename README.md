@@ -92,3 +92,28 @@ It uses Python's logging module to log important events and errors, which can be
 
 
 in v4   i add buttons in bot 
+
+
+***************************************************
+FOR VERSION V5  
+***************************************************
+
+YOU NEED TO ADD IN ENV FILE :    Open your .env file and make sure it has a line like this put your telegram id :
+
+
+ADMIN_ID=815xxxxx
+
+so in env file you have :
+
+MY_TELEGRAM_BOT_TOKEN=594xxxx413:AAEC8xxxxxLuw9XEMlPA
+
+ADMIN_ID=815xxxxx
+
+
+so these need to put in env to use this v5 bot
+
+whats new in this version 5 :
+
+1- you see all activities in terminal    2- you will get message that bot is run 3- bug fixes
+
+
